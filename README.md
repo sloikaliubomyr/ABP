@@ -1,6 +1,6 @@
 # Conference Room Booking API
 
-A robust ASP.NET Core Web API for managing conference room bookings and rental calculations with dynamic pricing based on time slots and additional services.
+A professional ASP.NET Core 8.0 Web API for managing conference room bookings and rental calculations with dynamic pricing based on time slots and additional services.
 
 ## Project Overview
 
