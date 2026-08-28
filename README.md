@@ -313,9 +313,6 @@ Example error response:
 }
 ```
 
-## Author
-ABP Company - msloika@in-com.com
-
 ## Version
 1.0.0
 
